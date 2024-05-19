@@ -1,6 +1,6 @@
 {
   "name": "unikvstore",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "description": "A utility library for managing storages through a simple key-value pair storage interface, including localStorage, google drive, dropbox, etc.",
   "type": "module",
   "main": "build/src/index.js",
@@ -59,8 +59,8 @@
     "build:release": "npm run clean && tsc -p tsconfig.release.json",
     "lint": "eslint . --ext .ts --ext .mts",
     "test": "npm run clean && jest --coverage",
-    "publish": "npm run build:release",
     "prettier": "prettier --config .prettierrc --write .",
+    "prepublish": "npm run build:release",
     "test:watch": "jest --watch"
   },
   "license": "Apache-2.0",
