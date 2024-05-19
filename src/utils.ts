@@ -1,4 +1,4 @@
-export function parseQueryString(): Record<string, unknown> {
+export function parseQueryString(): Record<string, any> {
   const fragmentString =
     globalThis.location.hash.charAt(0) == '#'
       ? globalThis.location.hash.substring(1)

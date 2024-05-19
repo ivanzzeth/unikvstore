@@ -61,7 +61,7 @@ export interface IMultiStorage extends IStorage {
 export type StorageWrapper = (storage: IStorage) => IStorage;
 
 export { GoogleDriveStorage } from "./google";
-// export { DropboxStorage } from "./dropbox";
+export { DropboxStorage } from "./dropbox";
 export { LocalStorage } from './localStorage.js';
 export { MemoryStorage } from './memoryStorage.js';
 

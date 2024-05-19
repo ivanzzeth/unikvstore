@@ -1,6 +1,6 @@
 import * as sinon from "sinon";
 import {
-  // DropboxStorage,
+  DropboxStorage,
   GoogleDriveStorage,
   IMultiStorage,
   IStorage,
@@ -79,6 +79,22 @@ describe("IStorage", function () {
       // console.log("Run GoogleDriveStorage test done...", await storage.keys());
       await storage.clear();
 
+      await test();
+    });
+
+    it("test DropboxStorage when access token passed", async function () {
+      const accessToken = process.env.DROPBOX_ACCESS_TOKEN;
+      console.log("dropbox accessToken: ", accessToken);
+      if (!accessToken) {
+        return;
+      }
+
+      console.log("Run DropboxStorage test...");
+      storage = new DropboxStorage(accessToken);
+      // await storage.set("test", "testValue");
+      // assert.equal(await storage.get("test"), "testValue");
+      await storage.clear();
+      // console.log("Run DropboxStorage test done...", await storage.keys());
       await test();
     });
   });

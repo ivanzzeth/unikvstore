@@ -1,6 +1,6 @@
 {
   "name": "unikvstore",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A utility library for managing storages through a simple key-value pair storage interface, including localStorage, google drive, dropbox, etc.",
   "type": "module",
   "main": "build/src/main.js",
@@ -65,6 +65,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "axios": "^1.6.8",
+    "dropbox": "^10.34.0",
     "tslib": "~2.6"
   },
   "volta": {
