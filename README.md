@@ -19,32 +19,14 @@ npm install unikvstore
 ## Usage
 
 ```ts
-import { myPackage } from 'unikvstore';
+import { MemoryStorage } from "unikvstore";
 
-myPackage('hello');
-//=> 'hello from my package'
+const storage = new MemoryStorage();
+
+storage.set("key", "value");
+console.log("get: ", await storage.get("key"));
+console.log("contains: ", await storage.contains("key"));
 ```
-
-## API
-
-### myPackage(input, options?)
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-Type: `object`
-
-##### postfix
-
-Type: `string`
-Default: `rainbows`
-
-Lorem ipsum.
 
 [build-img]:https://github.com/ryansonshine/typescript-npm-package-template/actions/workflows/release.yml/badge.svg
 [build-url]:https://github.com/ryansonshine/typescript-npm-package-template/actions/workflows/release.yml
