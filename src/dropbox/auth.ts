@@ -7,7 +7,7 @@ export async function auth(clientId: string, redirectUri?: string) {
     globalThis.window.location.protocol +
       "//" +
       globalThis.window.location.host; // 'http://localhost:3000'
-  let internalState = "try_sample_request";
+  const internalState = "try_sample_request";
 
   const dbxAuth = new DropboxAuth({ clientId });
   const codeVerifierKey = "dropbox-code-verifier";

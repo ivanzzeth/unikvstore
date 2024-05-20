@@ -62,11 +62,24 @@ export type StorageWrapper = (storage: IStorage) => IStorage;
 
 export { GoogleDriveStorage } from "./google";
 export { DropboxStorage } from "./dropbox";
-export { LocalStorage } from './localStorage.js';
-export { MemoryStorage } from './memoryStorage.js';
+export { LocalStorage } from './localStorage';
+export { MemoryStorage } from './memoryStorage';
 
 export {
   MultiStorage,
   MemoryStorageWrapper,
   LocalStorageWrapper,
-} from './multiStorage.js';
+} from './multiStorage';
+
+// import { MemoryStorage } from "./memoryStorage";
+
+// async function main() {
+//   console.log("test main in unikvstore/index.ts...")
+//   const storage = new MemoryStorage();
+
+//   await storage.set("key", "value");
+//   console.log("get: ", await storage.get("key"));
+//   console.log("contains: ", await storage.contains("key"));
+// }
+
+// main();

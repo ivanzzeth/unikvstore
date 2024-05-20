@@ -28,6 +28,11 @@ describe("IStorage", function () {
 
   describe("test storages with generaral cases", function () {
     it("LocalStorage", async function () {
+      storage = new LocalStorage();
+      await test();
+    });
+
+    it("LocalStorage with NodeLocalStorage", async function () {
       // Inject localStorage for simulating brower env.
       const NodeLocalStorage = require("node-localstorage").LocalStorage;
       const nodeLocalStorage = new NodeLocalStorage("./scratch-test-storage");

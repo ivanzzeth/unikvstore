@@ -1,12 +1,23 @@
+import { MemoryStorage } from './memoryStorage';
 import { IStorage } from '.';
+import { DomStorage } from './domStorage';
 import { KeyNotFound } from './errors';
 
 const LOCAL_STORAGE_KEY = 'LocalStorage_Keys';
 
 export class LocalStorage implements IStorage {
-  private store: Storage;
+  private store: DomStorage;
 
-  constructor(store: Storage = localStorage) {
+  constructor(store?: DomStorage) {
+    if (!store) {
+      if (typeof localStorage !== 'undefined') {
+        store = localStorage;
+      } else {
+        // @ts-ignore
+        return new MemoryStorage();
+      }
+    }
+    
     this.store = store;
   }
 

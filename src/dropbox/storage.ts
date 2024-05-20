@@ -19,9 +19,7 @@ export class DropboxStorage implements IStorage {
   }
 
   async contains(key: string | Promise<string>): Promise<boolean> {
-    let resp: DropboxResponse<files.SearchV2Result>;
-
-    resp = await this.dbx.filesSearchV2({
+    const resp: DropboxResponse<files.SearchV2Result> = await this.dbx.filesSearchV2({
       query: await key,
     });
 
@@ -116,7 +114,7 @@ export class DropboxStorage implements IStorage {
   }
 
   private async getFileContent(filename: string) {
-    let content = (await new Promise((resolve, reject) => {
+    const content = (await new Promise((resolve, reject) => {
       this.dbx
         .filesDownload({
           path: filename,

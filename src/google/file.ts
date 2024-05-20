@@ -143,7 +143,7 @@ export class GoogleDrive {
     const searchParams = new URLSearchParams(
       `access_token=${this.accessToken}`,
     );
-    for (let k in params) {
+    for (const k in params) {
       searchParams.append(k, (params as any)[k]);
     }
     const resp = await axios.get<
@@ -222,7 +222,7 @@ export class GoogleDrive {
       params.mimeType = "text/plain";
     }
 
-    for (let k in params) {
+    for (const k in params) {
       searchParams.append(k, (params as any)[k]);
     }
     const resp = await axios.get<

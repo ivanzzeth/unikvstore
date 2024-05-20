@@ -1,20 +1,16 @@
 {
   "compilerOptions": {
-    "target": "es2022",
-    "module": "ESNext",
+    "target": "es2020",
+    "module": "CommonJS",
     "lib": [
-      "ES2022",
       "DOM",
       "dom.iterable",
     ],
-    "moduleResolution": "Bundler",
     "declaration": true,
-    "rootDir": ".",
-    "outDir": "build",
     "allowSyntheticDefaultImports": true,
     "importHelpers": true,
     "alwaysStrict": true,
-    "sourceMap": true,
+    "sourceMap": false,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,
@@ -25,5 +21,6 @@
     "esModuleInterop": true,
     "strictNullChecks": false
   },
-  "include": ["examples/**/*", "src/**/*", "__tests__/**/*"]
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
 }

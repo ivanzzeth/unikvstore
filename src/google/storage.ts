@@ -12,8 +12,6 @@ export class GoogleDriveStorage implements IStorage {
   async keys(): Promise<string[]> {
     const resp = await this.drive.searchFile();
     return resp.files.map((file) => file.name);
-
-    return [];
   }
 
   async contains(key: string | Promise<string>): Promise<boolean> {
@@ -38,8 +36,7 @@ export class GoogleDriveStorage implements IStorage {
       throw KeyNotFound;
     }
 
-    let content: string;
-    content = await this.drive.getFile(fileId!);
+    const content = await this.drive.getFile(fileId!);
 
     return content!;
   }
@@ -81,8 +78,7 @@ export class GoogleDriveStorage implements IStorage {
   private async getFileId(
     key: string | Promise<string>,
   ): Promise<string | undefined> {
-    let resp!: SearchFileResponse;
-    resp = await this.drive.searchFile({ q: `name = '${key}'` });
+    const resp: SearchFileResponse = await this.drive.searchFile({ q: `name = '${key}'` });
 
     if (resp.files.length > 1) {
       throw new Error("Duplicate entries");
