@@ -1,7 +1,7 @@
-import { MemoryStorage } from "unikvstore";
+import { MemoryStorage, IStorage } from "unikvstore";
 
 async function main() {
-    const storage = new MemoryStorage();
+    const storage: IStorage = new MemoryStorage();
 
     await storage.set("key", "value");
     console.log("get: ", await storage.get("key"));

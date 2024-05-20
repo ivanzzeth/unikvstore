@@ -1,3 +1,7 @@
+**unikvstore** • [**Docs**](globals.md)
+
+***
+
 # unikvstore
 
 [![npm package][npm-img]][npm-url]
@@ -79,8 +83,6 @@ main();
 ```
 
 ## Interface
-
-For more details about interface to see [this](./docs/globals.md).
 
 Core interface:
 

@@ -32,8 +32,30 @@
   "bugs": {
     "url": "https://github.com/ivanzzeth/unikvstore/issues"
   },
+  "license": "Apache-2.0",
   "engines": {
     "node": ">= 18"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "clean": "rimraf coverage build tmp",
+    "prebuild": "npm run lint",
+    "build": "tsup src/index.ts --format cjs --dts --shims --tsconfig tsconfig.json",
+    "build:docs": "typedoc --out docs src --plugin typedoc-plugin-markdown",
+    "build:release": "npm run clean && npm run build && npm run build:docs",
+    "prettier": "prettier --config .prettierrc --write .",
+    "lint": "eslint . --ext .ts --ext .mts",
+    "test": "npm run clean && jest --coverage",
+    "prepublish": "npm run build:release",
+    "test:watch": "jest --watch"
+  },
+  "volta": {
+    "node": "20.12.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dropbox": "^10.34.0",
+    "tslib": "~2.6"
   },
   "devDependencies": {
     "@types/jest": "~29.5",
@@ -52,28 +74,9 @@
     "ts-api-utils": "~1.3",
     "ts-jest": "~29.1",
     "tsup": "^8.0.2",
+    "typedoc": "^0.25.13",
+    "typedoc-plugin-markdown": "^4.0.2",
     "typescript": "~5.4",
     "unikvstore": "^2.0.4"
-  },
-  "scripts": {
-    "start": "node dist/index.js",
-    "clean": "rimraf coverage build tmp",
-    "prebuild": "npm run lint",
-    "build": "tsup src/index.ts --format cjs --dts --shims --tsconfig tsconfig.json",
-    "build:release": "npm run clean && npm run build",
-    "lint": "eslint . --ext .ts --ext .mts",
-    "test": "npm run clean && jest --coverage",
-    "prettier": "prettier --config .prettierrc --write .",
-    "prepublish": "npm run build:release",
-    "test:watch": "jest --watch"
-  },
-  "license": "Apache-2.0",
-  "dependencies": {
-    "axios": "^1.6.8",
-    "dropbox": "^10.34.0",
-    "tslib": "~2.6"
-  },
-  "volta": {
-    "node": "20.12.2"
   }
 }

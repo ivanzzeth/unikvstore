@@ -70,16 +70,3 @@ export {
   MemoryStorageWrapper,
   LocalStorageWrapper,
 } from './multiStorage';
-
-// import { MemoryStorage } from "./memoryStorage";
-
-// async function main() {
-//   console.log("test main in unikvstore/index.ts...")
-//   const storage = new MemoryStorage();
-
-//   await storage.set("key", "value");
-//   console.log("get: ", await storage.get("key"));
-//   console.log("contains: ", await storage.contains("key"));
-// }
-
-// main();
