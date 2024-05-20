@@ -11,6 +11,7 @@
     "importHelpers": true,
     "alwaysStrict": true,
     "sourceMap": false,
+    "allowJs": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,

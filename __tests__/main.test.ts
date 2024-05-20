@@ -226,7 +226,6 @@ describe("IStorage", function () {
     expect(await localStorage.get(key3)).toEqual(value3);
 
     // Test update base in specified interval.
-    console.log("sinon: ", sinon);
     const clock = sinon.useFakeTimers();
     const intervalId = multiStorage.startAutoPush();
     multiStorage.addAutoPushKey(key2);
