@@ -21,11 +21,15 @@ npm install unikvstore
 ```ts
 import { MemoryStorage } from "unikvstore";
 
-const storage = new MemoryStorage();
+async function main() {
+    const storage = new MemoryStorage();
 
-storage.set("key", "value");
-console.log("get: ", await storage.get("key"));
-console.log("contains: ", await storage.contains("key"));
+    await storage.set("key", "value");
+    console.log("get: ", await storage.get("key"));
+    console.log("contains: ", await storage.contains("key"));
+}
+
+main();
 ```
 
 [build-img]:https://github.com/ryansonshine/typescript-npm-package-template/actions/workflows/release.yml/badge.svg
