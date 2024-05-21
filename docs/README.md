@@ -84,6 +84,8 @@ main();
 
 ## Interface
 
+For more details about interface to see [this](./docs/globals.md).
+
 Core interface:
 
 ```ts

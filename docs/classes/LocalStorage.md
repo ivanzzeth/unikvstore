@@ -26,7 +26,7 @@
 
 #### Source
 
-[localStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L11)
+[localStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L11)
 
 ## Properties
 
@@ -36,7 +36,7 @@
 
 #### Source
 
-[localStorage.ts:9](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L9)
+[localStorage.ts:9](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L9)
 
 ## Methods
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[localStorage.ts:76](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L76)
+[localStorage.ts:76](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L76)
 
 ***
 
@@ -72,7 +72,7 @@
 
 #### Source
 
-[localStorage.ts:65](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L65)
+[localStorage.ts:65](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L65)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Source
 
-[localStorage.ts:30](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L30)
+[localStorage.ts:30](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L30)
 
 ***
 
@@ -116,7 +116,7 @@
 
 #### Source
 
-[localStorage.ts:60](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L60)
+[localStorage.ts:60](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L60)
 
 ***
 
@@ -140,7 +140,7 @@
 
 #### Source
 
-[localStorage.ts:35](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L35)
+[localStorage.ts:35](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L35)
 
 ***
 
@@ -158,7 +158,7 @@
 
 #### Source
 
-[localStorage.ts:24](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L24)
+[localStorage.ts:24](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L24)
 
 ***
 
@@ -176,7 +176,7 @@
 
 #### Source
 
-[localStorage.ts:87](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L87)
+[localStorage.ts:87](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L87)
 
 ***
 
@@ -200,4 +200,4 @@
 
 #### Source
 
-[localStorage.ts:52](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/localStorage.ts#L52)
+[localStorage.ts:52](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/localStorage.ts#L52)

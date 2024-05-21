@@ -22,7 +22,7 @@
 
 #### Source
 
-[memoryStorage.ts:7](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L7)
+[memoryStorage.ts:7](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L7)
 
 ## Properties
 
@@ -32,7 +32,7 @@
 
 #### Source
 
-[memoryStorage.ts:5](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L5)
+[memoryStorage.ts:5](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L5)
 
 ## Methods
 
@@ -50,7 +50,7 @@
 
 #### Source
 
-[memoryStorage.ts:47](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L47)
+[memoryStorage.ts:47](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L47)
 
 ***
 
@@ -72,7 +72,7 @@
 
 #### Source
 
-[memoryStorage.ts:15](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L15)
+[memoryStorage.ts:15](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L15)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Source
 
-[memoryStorage.ts:43](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L43)
+[memoryStorage.ts:43](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L43)
 
 ***
 
@@ -118,7 +118,7 @@
 
 #### Source
 
-[memoryStorage.ts:19](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L19)
+[memoryStorage.ts:19](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L19)
 
 ***
 
@@ -136,7 +136,7 @@
 
 #### Source
 
-[memoryStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L11)
+[memoryStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L11)
 
 ***
 
@@ -160,4 +160,4 @@
 
 #### Source
 
-[memoryStorage.ts:36](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/memoryStorage.ts#L36)
+[memoryStorage.ts:36](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/memoryStorage.ts#L36)

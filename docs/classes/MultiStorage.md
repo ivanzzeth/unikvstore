@@ -33,7 +33,7 @@
 
 #### Source
 
-[multiStorage.ts:19](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L19)
+[multiStorage.ts:19](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L19)
 
 ## Properties
 
@@ -47,7 +47,7 @@
 
 #### Source
 
-[multiStorage.ts:16](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L16)
+[multiStorage.ts:16](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L16)
 
 ***
 
@@ -57,7 +57,7 @@
 
 #### Source
 
-[multiStorage.ts:6](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L6)
+[multiStorage.ts:6](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L6)
 
 ***
 
@@ -67,7 +67,7 @@
 
 #### Source
 
-[multiStorage.ts:12](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L12)
+[multiStorage.ts:12](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L12)
 
 ***
 
@@ -85,7 +85,7 @@
 
 #### Source
 
-[multiStorage.ts:10](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L10)
+[multiStorage.ts:10](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L10)
 
 ***
 
@@ -95,7 +95,7 @@
 
 #### Source
 
-[multiStorage.ts:15](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L15)
+[multiStorage.ts:15](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L15)
 
 ***
 
@@ -105,7 +105,7 @@
 
 #### Source
 
-[multiStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L11)
+[multiStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L11)
 
 ***
 
@@ -119,7 +119,7 @@
 
 #### Source
 
-[multiStorage.ts:9](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L9)
+[multiStorage.ts:9](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L9)
 
 ***
 
@@ -133,7 +133,7 @@
 
 #### Source
 
-[multiStorage.ts:14](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L14)
+[multiStorage.ts:14](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L14)
 
 ***
 
@@ -143,7 +143,7 @@
 
 #### Source
 
-[multiStorage.ts:7](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L7)
+[multiStorage.ts:7](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L7)
 
 ***
 
@@ -157,7 +157,7 @@
 
 #### Source
 
-[multiStorage.ts:8](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L8)
+[multiStorage.ts:8](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L8)
 
 ***
 
@@ -167,7 +167,7 @@
 
 #### Source
 
-[multiStorage.ts:5](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L5)
+[multiStorage.ts:5](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L5)
 
 ## Methods
 
@@ -189,7 +189,7 @@
 
 #### Source
 
-[multiStorage.ts:47](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L47)
+[multiStorage.ts:47](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L47)
 
 ***
 
@@ -211,7 +211,7 @@
 
 #### Source
 
-[multiStorage.ts:92](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L92)
+[multiStorage.ts:92](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L92)
 
 ***
 
@@ -233,7 +233,7 @@
 
 #### Source
 
-[multiStorage.ts:216](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L216)
+[multiStorage.ts:216](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L216)
 
 ***
 
@@ -255,7 +255,7 @@
 
 #### Source
 
-[multiStorage.ts:237](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L237)
+[multiStorage.ts:237](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L237)
 
 ***
 
@@ -273,7 +273,7 @@
 
 #### Source
 
-[multiStorage.ts:203](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L203)
+[multiStorage.ts:203](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L203)
 
 ***
 
@@ -295,7 +295,7 @@
 
 #### Source
 
-[multiStorage.ts:132](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L132)
+[multiStorage.ts:132](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L132)
 
 ***
 
@@ -317,7 +317,7 @@
 
 #### Source
 
-[multiStorage.ts:43](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L43)
+[multiStorage.ts:43](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L43)
 
 ***
 
@@ -339,7 +339,7 @@
 
 #### Source
 
-[multiStorage.ts:197](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L197)
+[multiStorage.ts:197](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L197)
 
 ***
 
@@ -363,7 +363,7 @@
 
 #### Source
 
-[multiStorage.ts:142](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L142)
+[multiStorage.ts:142](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L142)
 
 ***
 
@@ -381,7 +381,7 @@
 
 #### Source
 
-[multiStorage.ts:121](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L121)
+[multiStorage.ts:121](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L121)
 
 ***
 
@@ -403,7 +403,7 @@
 
 #### Source
 
-[multiStorage.ts:39](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L39)
+[multiStorage.ts:39](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L39)
 
 ***
 
@@ -425,7 +425,7 @@
 
 #### Source
 
-[multiStorage.ts:231](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L231)
+[multiStorage.ts:231](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L231)
 
 ***
 
@@ -447,7 +447,7 @@
 
 #### Source
 
-[multiStorage.ts:96](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L96)
+[multiStorage.ts:96](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L96)
 
 ***
 
@@ -471,7 +471,7 @@
 
 #### Source
 
-[multiStorage.ts:161](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L161)
+[multiStorage.ts:161](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L161)
 
 ***
 
@@ -493,7 +493,7 @@
 
 #### Source
 
-[multiStorage.ts:35](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L35)
+[multiStorage.ts:35](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L35)
 
 ***
 
@@ -515,7 +515,7 @@
 
 #### Source
 
-[multiStorage.ts:51](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L51)
+[multiStorage.ts:51](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L51)
 
 ***
 
@@ -537,7 +537,7 @@
 
 #### Source
 
-[multiStorage.ts:55](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L55)
+[multiStorage.ts:55](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L55)
 
 ***
 
@@ -559,7 +559,7 @@
 
 #### Source
 
-[multiStorage.ts:208](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L208)
+[multiStorage.ts:208](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L208)
 
 ***
 
@@ -581,7 +581,7 @@
 
 #### Source
 
-[multiStorage.ts:212](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L212)
+[multiStorage.ts:212](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L212)
 
 ***
 
@@ -599,7 +599,7 @@
 
 #### Source
 
-[multiStorage.ts:117](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L117)
+[multiStorage.ts:117](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L117)
 
 ***
 
@@ -617,7 +617,7 @@
 
 #### Source
 
-[multiStorage.ts:59](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L59)
+[multiStorage.ts:59](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L59)
 
 ***
 
@@ -635,7 +635,7 @@
 
 #### Source
 
-[multiStorage.ts:88](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L88)
+[multiStorage.ts:88](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L88)
 
 ***
 
@@ -659,7 +659,7 @@
 
 #### Source
 
-[multiStorage.ts:223](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L223)
+[multiStorage.ts:223](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L223)
 
 ***
 
@@ -673,4 +673,4 @@
 
 #### Source
 
-[multiStorage.ts:27](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/multiStorage.ts#L27)
+[multiStorage.ts:27](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/multiStorage.ts#L27)

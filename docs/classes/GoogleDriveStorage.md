@@ -26,7 +26,7 @@
 
 #### Source
 
-[google/storage.ts:8](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L8)
+[google/storage.ts:8](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L8)
 
 ## Properties
 
@@ -36,7 +36,7 @@
 
 #### Source
 
-[google/storage.ts:6](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L6)
+[google/storage.ts:6](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L6)
 
 ## Methods
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[google/storage.ts:70](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L70)
+[google/storage.ts:70](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L70)
 
 ***
 
@@ -76,7 +76,7 @@
 
 #### Source
 
-[google/storage.ts:17](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L17)
+[google/storage.ts:17](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L17)
 
 ***
 
@@ -98,7 +98,7 @@
 
 #### Source
 
-[google/storage.ts:62](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L62)
+[google/storage.ts:62](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L62)
 
 ***
 
@@ -122,7 +122,7 @@
 
 #### Source
 
-[google/storage.ts:23](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L23)
+[google/storage.ts:23](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L23)
 
 ***
 
@@ -140,7 +140,7 @@
 
 #### Source
 
-[google/storage.ts:78](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L78)
+[google/storage.ts:78](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L78)
 
 ***
 
@@ -158,7 +158,7 @@
 
 #### Source
 
-[google/storage.ts:12](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L12)
+[google/storage.ts:12](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L12)
 
 ***
 
@@ -182,4 +182,4 @@
 
 #### Source
 
-[google/storage.ts:44](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/google/storage.ts#L44)
+[google/storage.ts:44](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/google/storage.ts#L44)

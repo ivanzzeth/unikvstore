@@ -18,7 +18,7 @@
 
 #### Source
 
-[index.ts:32](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L32)
+[index.ts:32](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L32)
 
 ***
 
@@ -28,7 +28,7 @@
 
 #### Source
 
-[index.ts:30](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L30)
+[index.ts:30](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L30)
 
 ***
 
@@ -38,7 +38,7 @@
 
 #### Source
 
-[index.ts:26](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L26)
+[index.ts:26](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L26)
 
 ***
 
@@ -48,7 +48,7 @@
 
 #### Source
 
-[index.ts:28](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L28)
+[index.ts:28](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L28)
 
 ## Methods
 
@@ -66,7 +66,7 @@
 
 #### Source
 
-[index.ts:46](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L46)
+[index.ts:46](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L46)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Source
 
-[index.ts:38](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L38)
+[index.ts:38](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L38)
 
 ***
 
@@ -102,7 +102,7 @@
 
 #### Source
 
-[index.ts:50](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L50)
+[index.ts:50](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L50)
 
 ***
 
@@ -120,7 +120,7 @@
 
 #### Source
 
-[index.ts:58](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L58)
+[index.ts:58](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L58)
 
 ***
 
@@ -138,7 +138,7 @@
 
 #### Source
 
-[index.ts:22](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L22)
+[index.ts:22](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L22)
 
 ***
 
@@ -160,7 +160,7 @@
 
 #### Source
 
-[index.ts:5](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L5)
+[index.ts:5](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L5)
 
 ***
 
@@ -178,7 +178,7 @@
 
 #### Source
 
-[index.ts:45](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L45)
+[index.ts:45](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L45)
 
 ***
 
@@ -200,7 +200,7 @@
 
 #### Source
 
-[index.ts:20](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L20)
+[index.ts:20](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L20)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Source
 
-[index.ts:10](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L10)
+[index.ts:10](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L10)
 
 ***
 
@@ -242,7 +242,7 @@
 
 #### Source
 
-[index.ts:2](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L2)
+[index.ts:2](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L2)
 
 ***
 
@@ -260,7 +260,7 @@
 
 #### Source
 
-[index.ts:44](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L44)
+[index.ts:44](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L44)
 
 ***
 
@@ -278,7 +278,7 @@
 
 #### Source
 
-[index.ts:52](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L52)
+[index.ts:52](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L52)
 
 ***
 
@@ -296,7 +296,7 @@
 
 #### Source
 
-[index.ts:39](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L39)
+[index.ts:39](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L39)
 
 ***
 
@@ -320,7 +320,7 @@
 
 #### Source
 
-[index.ts:15](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L15)
+[index.ts:15](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L15)
 
 ***
 
@@ -338,7 +338,7 @@
 
 #### Source
 
-[index.ts:33](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L33)
+[index.ts:33](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L33)
 
 ***
 
@@ -356,7 +356,7 @@
 
 #### Source
 
-[index.ts:36](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L36)
+[index.ts:36](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L36)
 
 ***
 
@@ -374,7 +374,7 @@
 
 #### Source
 
-[index.ts:37](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L37)
+[index.ts:37](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L37)
 
 ***
 
@@ -392,7 +392,7 @@
 
 #### Source
 
-[index.ts:42](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L42)
+[index.ts:42](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L42)
 
 ***
 
@@ -410,7 +410,7 @@
 
 #### Source
 
-[index.ts:43](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L43)
+[index.ts:43](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L43)
 
 ***
 
@@ -424,7 +424,7 @@
 
 #### Source
 
-[index.ts:41](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L41)
+[index.ts:41](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L41)
 
 ***
 
@@ -438,7 +438,7 @@
 
 #### Source
 
-[index.ts:48](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L48)
+[index.ts:48](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L48)
 
 ***
 
@@ -452,7 +452,7 @@
 
 #### Source
 
-[index.ts:49](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L49)
+[index.ts:49](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L49)
 
 ***
 
@@ -472,4 +472,4 @@
 
 #### Source
 
-[index.ts:54](https://github.com/ivanzzeth/unikvstore/blob/845c3ab29b210f471f813e2c89f72934b47de796/src/index.ts#L54)
+[index.ts:54](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L54)
