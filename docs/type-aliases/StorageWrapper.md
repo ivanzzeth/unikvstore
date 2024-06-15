@@ -18,4 +18,4 @@
 
 ## Source
 
-[index.ts:61](https://github.com/ivanzzeth/unikvstore/blob/ded448b173c4ac89d45562b4f890825c214942ea/src/index.ts#L61)
+[index.ts:61](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/index.ts#L61)

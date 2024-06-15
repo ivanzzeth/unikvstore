@@ -1,6 +1,6 @@
 {
   "name": "unikvstore",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "description": "A utility library for managing storages through a simple key-value pair storage interface, including localStorage, google drive, dropbox, etc.",
   "main": "./src/index.ts",
   "types": "./src/index.ts",

@@ -2,13 +2,13 @@
 
 ***
 
-[unikvstore](../globals.md) / LocalStorage
+[unikvstore](../globals.md) / LocalFileStorage
 
-# Class: LocalStorage
+# Class: LocalFileStorage
 
-## Extended by
+## Extends
 
-- [`LocalFileStorage`](LocalFileStorage.md)
+- [`LocalStorage`](LocalStorage.md)
 
 ## Implements
 
@@ -16,51 +16,37 @@
 
 ## Constructors
 
-### new LocalStorage()
+### new LocalFileStorage()
 
-> **new LocalStorage**(`store`?): [`LocalStorage`](LocalStorage.md)
+> **new LocalFileStorage**(`filePath`): [`LocalFileStorage`](LocalFileStorage.md)
 
 #### Parameters
 
-• **store?**: `DomStorage`
+• **filePath**: `string`
 
 #### Returns
 
-[`LocalStorage`](LocalStorage.md)
+[`LocalFileStorage`](LocalFileStorage.md)
+
+#### Overrides
+
+[`LocalStorage`](LocalStorage.md).[`constructor`](LocalStorage.md#constructors)
 
 #### Source
 
-[localStorage.ts:11](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L11)
+localFileStorage.ts:6
 
 ## Properties
 
-### store
+### nodeStorage
 
-> `private` **store**: `DomStorage`
+> **nodeStorage**: `any`
 
 #### Source
 
-[localStorage.ts:9](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L9)
+localFileStorage.ts:4
 
 ## Methods
-
-### addKey()
-
-> `private` **addKey**(`key`): `void`
-
-#### Parameters
-
-• **key**: `string`
-
-#### Returns
-
-`void`
-
-#### Source
-
-[localStorage.ts:76](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L76)
-
-***
 
 ### clear()
 
@@ -73,6 +59,10 @@
 #### Implementation of
 
 [`IStorage`](../interfaces/IStorage.md).[`clear`](../interfaces/IStorage.md#clear)
+
+#### Inherited from
+
+[`LocalStorage`](LocalStorage.md).[`clear`](LocalStorage.md#clear)
 
 #### Source
 
@@ -96,6 +86,10 @@
 
 [`IStorage`](../interfaces/IStorage.md).[`contains`](../interfaces/IStorage.md#contains)
 
+#### Inherited from
+
+[`LocalStorage`](LocalStorage.md).[`contains`](LocalStorage.md#contains)
+
 #### Source
 
 [localStorage.ts:30](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L30)
@@ -118,9 +112,27 @@
 
 [`IStorage`](../interfaces/IStorage.md).[`delete`](../interfaces/IStorage.md#delete)
 
+#### Inherited from
+
+[`LocalStorage`](LocalStorage.md).[`delete`](LocalStorage.md#delete)
+
 #### Source
 
 [localStorage.ts:60](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L60)
+
+***
+
+### deleteLocalFile()
+
+> **deleteLocalFile**(): `void`
+
+#### Returns
+
+`void`
+
+#### Source
+
+localFileStorage.ts:15
 
 ***
 
@@ -142,6 +154,10 @@
 
 [`IStorage`](../interfaces/IStorage.md).[`get`](../interfaces/IStorage.md#get)
 
+#### Inherited from
+
+[`LocalStorage`](LocalStorage.md).[`get`](LocalStorage.md#get)
+
 #### Source
 
 [localStorage.ts:35](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L35)
@@ -160,27 +176,13 @@
 
 [`IStorage`](../interfaces/IStorage.md).[`keys`](../interfaces/IStorage.md#keys)
 
+#### Inherited from
+
+[`LocalStorage`](LocalStorage.md).[`keys`](LocalStorage.md#keys)
+
 #### Source
 
 [localStorage.ts:24](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L24)
-
-***
-
-### removeKey()
-
-> `private` **removeKey**(`key`): `void`
-
-#### Parameters
-
-• **key**: `string`
-
-#### Returns
-
-`void`
-
-#### Source
-
-[localStorage.ts:87](https://github.com/ivanzzeth/unikvstore/blob/54b2706fbc60fe20fe598fb250438833fd5def64/src/localStorage.ts#L87)
 
 ***
 
@@ -201,6 +203,10 @@
 #### Implementation of
 
 [`IStorage`](../interfaces/IStorage.md).[`set`](../interfaces/IStorage.md#set)
+
+#### Inherited from
+
+[`LocalStorage`](LocalStorage.md).[`set`](LocalStorage.md#set)
 
 #### Source
 

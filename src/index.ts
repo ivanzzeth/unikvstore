@@ -63,6 +63,7 @@ export type StorageWrapper = (storage: IStorage) => IStorage;
 export { GoogleDriveStorage } from "./google";
 export { DropboxStorage } from "./dropbox";
 export { LocalStorage } from './localStorage';
+export { LocalFileStorage } from './localFileStorage';
 export { MemoryStorage } from './memoryStorage';
 
 export {

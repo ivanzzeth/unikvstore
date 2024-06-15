@@ -5,6 +5,7 @@ import {
   IMultiStorage,
   IStorage,
   LocalStorage,
+  LocalFileStorage,
   MemoryStorage,
   MemoryStorageWrapper,
   MultiStorage,
@@ -30,6 +31,14 @@ describe("IStorage", function () {
     it("LocalStorage", async function () {
       storage = new LocalStorage();
       await test();
+    });
+
+    it("LocalFileStorage", async function () {
+      const localFileStorage = new LocalFileStorage("./local_file_storage");
+      storage = localFileStorage;
+      await test();
+
+      localFileStorage.deleteLocalFile();
     });
 
     it("LocalStorage with NodeLocalStorage", async function () {
